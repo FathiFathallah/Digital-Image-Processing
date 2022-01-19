@@ -1,4 +1,3 @@
-# Digital-Image-Processing
 # Image processing program (xIMG/xIMGAPP)
 <pre>
    • The project files with the statement as a PDF file are being uploaded to this Directory.
